@@ -1,0 +1,22 @@
+{
+    "name": "theme-archentheme",
+    "displayName": "Archen Theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "jsschwab",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Archen",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Archen.tmTheme"
+            }
+        ]
+    }
+}
